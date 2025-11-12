@@ -2,8 +2,6 @@
 
 **Dashboard interactivo para análisis táctico y de rendimiento de partidos (Python · Dash · Plotly)**
 
-> Un proyecto de portafolio que convierte CSVs de resultados en visualizaciones y métricas accionables, ideal para mostrar habilidades en procesamiento de datos, métricas avanzadas y visualización interactiva.
-
 ---
 
 ## 🎯 Resumen
