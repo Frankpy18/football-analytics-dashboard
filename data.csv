@@ -1,0 +1,142 @@
+type,side,scope,id,date,date_iso,match_mid,match_name,aid,aid_name,bid,bid_name,liveA,liveB,redA,redB,bc,ng,rq,rql,worl,oworl,handFull_home,handFull_away,handFull_hand,handHalf_home,handHalf_away,handHalf_hand,ouFull_o,ouFull_u,ouFull_score,ouHalf_o,ouHalf_u,ouHalf_score,mid,match_color
+team_history,A,all,4879562,05/10/25,2025-10-05,92,ENG PR,444,Chelsea F.C.,279,Liverpool F.C.,2,1,0,0,1-0,0,0.25,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,all,4879565,04/10/25,2025-10-04,92,ENG PR,239,Manchester United F.C.,29,Sunderland A.F.C.,2,0,0,0,2-0,0,-1.0,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,all,4979511,01/10/25,2025-10-01,74,UEFA CL,335,Galatasaray S.K.,279,Liverpool F.C.,1,0,0,0,1-0,0,1.0,1,2,3,,,,,,,,,,,,,74,8D7321
+team_history,A,all,4879551,27/09/25,2025-09-27,92,ENG PR,112,Crystal Palace F.C.,279,Liverpool F.C.,2,1,0,0,1-0,0,0.5,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,all,4879549,27/09/25,2025-09-27,92,ENG PR,473,Brentford F.C.,239,Manchester United F.C.,3,1,0,0,2-1,0,0.5,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4879549,27/09/25,2025-09-27,92,ENG PR,473,Brentford F.C.,239,Manchester United F.C.,3,1,0,0,2-1,0,0.5,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,A,all,4978126,24/09/25,2025-09-24,53,ENG LC,279,Liverpool F.C.,25,Southampton F.C.,2,1,1,0,1-0,0,-2.0,1,0,3,,,,,,,,,,,,,53,fb4253
+team_history,A,home,4978126,24/09/25,2025-09-24,53,ENG LC,279,Liverpool F.C.,25,Southampton F.C.,2,1,1,0,1-0,0,-2.0,1,0,3,,,,,,,,,,,,,53,fb4253
+team_history,B,all,4879544,21/09/25,2025-09-21,92,ENG PR,239,Manchester United F.C.,444,Chelsea F.C.,2,1,1,1,2-0,0,-0.0,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,all,4879543,20/09/25,2025-09-20,92,ENG PR,279,Liverpool F.C.,551,Everton F.C.,2,1,0,0,2-0,0,-1.25,1,0,4,,,,,,,,,,,,,92,F90000
+team_history,A,home,4879543,20/09/25,2025-09-20,92,ENG PR,279,Liverpool F.C.,551,Everton F.C.,2,1,0,0,2-0,0,-1.25,1,0,4,,,,,,,,,,,,,92,F90000
+team_history,A,all,4979596,18/09/25,2025-09-18,74,UEFA CL,279,Liverpool F.C.,664,Atletico Madrid,3,2,0,0,2-1,0,-1.25,1,0,4,,,,,,,,,,,,,74,8D7321
+team_history,A,home,4979596,18/09/25,2025-09-18,74,UEFA CL,279,Liverpool F.C.,664,Atletico Madrid,3,2,0,0,2-1,0,-1.25,1,0,4,,,,,,,,,,,,,74,8D7321
+team_history,A,all,4879529,14/09/25,2025-09-14,92,ENG PR,498,Burnley F.C.,279,Liverpool F.C.,0,1,1,0,0-0,0,1.5,1,0,3,,,,,,,,,,,,,92,F90000
+team_history,B,all,4879533,14/09/25,2025-09-14,92,ENG PR,240,Manchester City F.C.,239,Manchester United F.C.,3,0,0,0,1-0,0,-1.0,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4879533,14/09/25,2025-09-14,92,ENG PR,240,Manchester City F.C.,239,Manchester United F.C.,3,0,0,0,1-0,0,-1.0,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,A,all,4879520,31/08/25,2025-08-31,92,ENG PR,279,Liverpool F.C.,567,Arsenal F.C.,1,0,0,0,0-0,0,-0.25,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,home,4879520,31/08/25,2025-08-31,92,ENG PR,279,Liverpool F.C.,567,Arsenal F.C.,1,0,0,0,0-0,0,-0.25,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,B,all,4879521,30/08/25,2025-08-30,92,ENG PR,239,Manchester United F.C.,498,Burnley F.C.,3,2,0,0,1-0,0,-1.25,1,0,4,,,,,,,,,,,,,92,F90000
+team_history,B,all,4971218,28/08/25,2025-08-28,53,ENG LC,395,Grimsby Town F.C.,239,Manchester United F.C.,2,2,0,0,2-0,0,2.25,1,1,3,,,,,,,,,,,,,53,fb4253
+team_history,B,away,4971218,28/08/25,2025-08-28,53,ENG LC,395,Grimsby Town F.C.,239,Manchester United F.C.,2,2,0,0,2-0,0,2.25,1,1,3,,,,,,,,,,,,,53,fb4253
+team_history,A,all,4879514,26/08/25,2025-08-26,92,ENG PR,200,Newcastle United F.C.,279,Liverpool F.C.,2,3,1,0,0-1,0,0.25,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,B,all,4879512,24/08/25,2025-08-24,92,ENG PR,398,Fulham F.C.,239,Manchester United F.C.,1,1,0,0,0-0,0,0.25,1,1,4,,,,,,,,,,,,,92,F90000
+team_history,B,away,4879512,24/08/25,2025-08-24,92,ENG PR,398,Fulham F.C.,239,Manchester United F.C.,1,1,0,0,0-0,0,0.25,1,1,4,,,,,,,,,,,,,92,F90000
+team_history,B,all,4879345,17/08/25,2025-08-17,92,ENG PR,239,Manchester United F.C.,567,Arsenal F.C.,0,1,0,0,0-1,0,0.5,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,A,all,4879327,16/08/25,2025-08-16,92,ENG PR,279,Liverpool F.C.,674,AFC Bournemouth,4,2,0,0,1-0,0,-1.5,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,home,4879327,16/08/25,2025-08-16,92,ENG PR,279,Liverpool F.C.,674,AFC Bournemouth,4,2,0,0,1-0,0,-1.5,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,all,4881042,10/08/25,2025-08-10,75,ENG CS,112,Crystal Palace F.C.,279,Liverpool F.C.,2,2,0,0,1-2,1,0.75,1,1,3,,,,,,,,,,,,,75,12224E
+team_history,B,all,4941257,09/08/25,2025-08-09,166,INT CF,239,Manchester United F.C.,400,ACF Fiorentina,1,1,0,0,1-1,0,-1.25,1,1,3,,,,,,,,,,,,,166,5691D8
+team_history,A,all,4939203,05/08/25,2025-08-05,166,INT CF,279,Liverpool F.C.,476,Athletic Bilbao,3,2,0,0,1-1,0,,0,0,-1,,,,,,,,,,,,,166,5691D8
+team_history,A,home,4939203,05/08/25,2025-08-05,166,INT CF,279,Liverpool F.C.,476,Athletic Bilbao,3,2,0,0,1-1,0,,0,0,-1,,,,,,,,,,,,,166,5691D8
+team_history,A,all,4939166,04/08/25,2025-08-04,166,INT CF,279,Liverpool F.C.,476,Athletic Bilbao,4,1,0,0,3-0,0,-1.0,0,0,0,,,,,,,,,,,,,166,5691D8
+team_history,A,home,4939166,04/08/25,2025-08-04,166,INT CF,279,Liverpool F.C.,476,Athletic Bilbao,4,1,0,0,3-0,0,-1.0,0,0,0,,,,,,,,,,,,,166,5691D8
+team_history,B,all,4932971,04/08/25,2025-08-04,166,INT CF,239,Manchester United F.C.,551,Everton F.C.,2,2,0,0,1-1,1,-1.0,1,1,3,,,,,,,,,,,,,166,5691D8
+team_history,B,all,4928387,31/07/25,2025-07-31,166,INT CF,239,Manchester United F.C.,674,AFC Bournemouth,4,1,0,0,2-0,1,-0.0,1,0,0,,,,,,,,,,,,,166,5691D8
+team_history,A,all,4930658,30/07/25,2025-07-30,166,INT CF,356,Yokohama F. Marinos,279,Liverpool F.C.,1,3,0,0,0-0,0,2.25,1,0,4,,,,,,,,,,,,,166,5691D8
+team_history,B,all,4928385,27/07/25,2025-07-27,166,INT CF,239,Manchester United F.C.,68,West Ham United F.C.,2,1,0,0,1-0,1,-0.5,1,0,0,,,,,,,,,,,,,166,5691D8
+team_history,A,all,4928380,26/07/25,2025-07-26,166,INT CF,279,Liverpool F.C.,600,AC Milan,2,4,0,0,1-1,1,-1.25,1,2,3,,,,,,,,,,,,,166,5691D8
+team_history,B,all,4918620,19/07/25,2025-07-19,166,INT CF,239,Manchester United F.C.,867,Leeds United F.C.,0,0,0,0,0-0,1,-0.75,1,1,3,,,,,,,,,,,,,166,5691D8
+team_history,A,all,4914897,13/07/25,2025-07-13,166,INT CF,182,Preston North End F.C.,279,Liverpool F.C.,1,3,0,0,0-1,0,1.75,1,0,1,,,,,,,,,,,,,166,5691D8
+team_history,B,all,4871768,30/05/25,2025-05-30,61,INTERF,871,"Hong Kong, China",239,Manchester United F.C.,1,3,0,0,1-0,0,2.25,1,0,4,,,,,,,,,,,,,61,999933
+team_history,B,away,4871768,30/05/25,2025-05-30,61,INTERF,871,"Hong Kong, China",239,Manchester United F.C.,1,3,0,0,1-0,0,2.25,1,0,4,,,,,,,,,,,,,61,999933
+team_history,B,all,4871590,28/05/25,2025-05-28,166,INT CF,725306,ASEAN All-Stars,239,Manchester United F.C.,1,0,0,0,0-0,1,2.75,1,2,3,,,,,,,,,,,,,166,5691D8
+team_history,A,all,4703050,25/05/25,2025-05-25,92,ENG PR,279,Liverpool F.C.,112,Crystal Palace F.C.,1,1,1,0,0-1,0,-1.5,1,1,3,,,,,,,,,,,,,92,F90000
+team_history,A,home,4703050,25/05/25,2025-05-25,92,ENG PR,279,Liverpool F.C.,112,Crystal Palace F.C.,1,1,1,0,0-1,0,-1.5,1,1,3,,,,,,,,,,,,,92,F90000
+team_history,B,all,4703051,25/05/25,2025-05-25,92,ENG PR,239,Manchester United F.C.,571,Aston Villa F.C.,2,0,0,1,0-0,0,0.75,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,B,all,4868484,22/05/25,2025-05-22,58,UEFA EL,175,Tottenham Hotspur F.C.,239,Manchester United F.C.,1,0,0,0,1-0,1,0.25,1,2,3,,,,,,,,,,,,,58,7E001C
+team_history,A,all,4703040,20/05/25,2025-05-20,92,ENG PR,507,Brighton & Hove Albion F.C.,279,Liverpool F.C.,3,2,0,0,1-2,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,all,4703041,17/05/25,2025-05-17,92,ENG PR,444,Chelsea F.C.,239,Manchester United F.C.,1,0,0,0,0-0,0,-1.25,1,2,1,,,,,,,,,,,,,92,F90000
+team_history,B,away,4703041,17/05/25,2025-05-17,92,ENG PR,444,Chelsea F.C.,239,Manchester United F.C.,1,0,0,0,0-0,0,-1.25,1,2,1,,,,,,,,,,,,,92,F90000
+team_history,A,all,4703030,11/05/25,2025-05-11,92,ENG PR,279,Liverpool F.C.,567,Arsenal F.C.,2,2,0,1,2-0,0,-0.25,1,1,4,,,,,,,,,,,,,92,F90000
+team_history,A,home,4703030,11/05/25,2025-05-11,92,ENG PR,279,Liverpool F.C.,567,Arsenal F.C.,2,2,0,1,2-0,0,-0.25,1,1,4,,,,,,,,,,,,,92,F90000
+team_history,B,all,4703031,11/05/25,2025-05-11,92,ENG PR,239,Manchester United F.C.,68,West Ham United F.C.,0,2,0,0,0-1,0,-0.5,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,all,4864215,09/05/25,2025-05-09,58,UEFA EL,239,Manchester United F.C.,476,Athletic Bilbao,4,1,0,0,0-1,0,-0.5,1,0,0,,,,,,,,,,,,,58,7E001C
+team_history,A,all,4703021,04/05/25,2025-05-04,92,ENG PR,444,Chelsea F.C.,279,Liverpool F.C.,3,1,0,0,1-0,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4703019,04/05/25,2025-05-04,92,ENG PR,473,Brentford F.C.,239,Manchester United F.C.,4,3,0,0,2-1,0,-0.75,1,2,4,,,,,,,,,,,,,92,F90000
+team_history,B,away,4864212,02/05/25,2025-05-02,58,UEFA EL,476,Athletic Bilbao,239,Manchester United F.C.,0,3,1,0,0-3,0,-0.25,1,0,0,,,,,,,,,,,,,58,7E001C
+team_history,A,home,4703012,27/04/25,2025-04-27,92,ENG PR,279,Liverpool F.C.,175,Tottenham Hotspur F.C.,5,1,0,0,3-1,0,-2.0,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,B,away,4703009,27/04/25,2025-04-27,92,ENG PR,674,AFC Bournemouth,239,Manchester United F.C.,1,1,1,0,1-0,0,-0.5,1,1,0,,,,,,,,,,,,,92,F90000
+team_history,A,home,4702992,13/04/25,2025-04-13,92,ENG PR,279,Liverpool F.C.,68,West Ham United F.C.,2,1,0,0,1-0,0,-1.5,1,0,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4702994,13/04/25,2025-04-13,92,ENG PR,200,Newcastle United F.C.,239,Manchester United F.C.,4,1,0,0,1-1,0,-1.0,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4854776,11/04/25,2025-04-11,58,UEFA EL,292,Olympique Lyonnais,239,Manchester United F.C.,2,2,0,0,1-1,0,0.25,1,1,4,,,,,,,,,,,,,58,7E001C
+team_history,A,home,4702977,03/04/25,2025-04-03,92,ENG PR,279,Liverpool F.C.,551,Everton F.C.,1,0,0,0,0-0,0,-1.0,1,0,2,,,,,,,,,,,,,92,F90000
+team_history,B,away,4702971,02/04/25,2025-04-02,92,ENG PR,195,Nottingham Forest F.C.,239,Manchester United F.C.,1,0,0,0,1-0,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4702964,17/03/25,2025-03-17,92,ENG PR,293,Leicester City F.C.,239,Manchester United F.C.,0,3,0,0,0-1,0,0.5,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,home,4846708,12/03/25,2025-03-12,74,UEFA CL,279,Liverpool F.C.,517,Paris Saint-Germain FC,0,1,0,0,0-1,0,-0.25,1,2,3,,,,,,,,,,,,,74,8D7321
+team_history,A,home,4702952,08/03/25,2025-03-08,92,ENG PR,279,Liverpool F.C.,25,Southampton F.C.,3,1,0,0,0-1,0,-2.5,1,0,3,,,,,,,,,,,,,92,F90000
+team_history,B,away,4846724,07/03/25,2025-03-07,58,UEFA EL,344,Real Sociedad,239,Manchester United F.C.,1,1,0,0,0-0,0,-0.5,1,1,0,,,,,,,,,,,,,58,7E001C
+team_history,A,home,4702946,27/02/25,2025-02-27,92,ENG PR,279,Liverpool F.C.,200,Newcastle United F.C.,2,0,0,0,1-0,0,-1.5,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,B,away,4702931,22/02/25,2025-02-22,92,ENG PR,551,Everton F.C.,239,Manchester United F.C.,2,2,0,0,2-0,0,-0.0,1,1,2,,,,,,,,,,,,,92,F90000
+team_history,B,away,4702926,17/02/25,2025-02-17,92,ENG PR,175,Tottenham Hotspur F.C.,239,Manchester United F.C.,1,0,0,0,1-0,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+team_history,A,home,4702923,16/02/25,2025-02-16,92,ENG PR,279,Liverpool F.C.,300,Wolverhampton Wanderers F.C.,2,1,0,0,2-0,0,-1.75,1,0,3,,,,,,,,,,,,,92,F90000
+team_history,A,home,4815070,07/02/25,2025-02-07,53,ENG LC,279,Liverpool F.C.,175,Tottenham Hotspur F.C.,4,0,0,0,1-0,0,-1.75,1,0,0,,,,,,,,,,,,,53,fb4253
+team_history,B,away,4784308,31/01/25,2025-01-31,58,UEFA EL,684,FCSB,239,Manchester United F.C.,0,2,0,0,0-0,0,0.75,1,0,0,,,,,,,,,,,,,58,7E001C
+team_history,B,away,4702902,27/01/25,2025-01-27,92,ENG PR,398,Fulham F.C.,239,Manchester United F.C.,0,1,0,0,0-0,0,-0.25,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,home,4702903,25/01/25,2025-01-25,92,ENG PR,279,Liverpool F.C.,18,Ipswich Town F.C.,4,1,0,0,3-0,0,-2.5,1,0,0,,,,,,,,,,,,,92,F90000
+team_history,A,home,4784078,22/01/25,2025-01-22,74,UEFA CL,279,Liverpool F.C.,284,Lille OSC,2,1,0,1,1-0,0,-1.5,1,0,3,,,,,,,,,,,,,74,8D7321
+team_history,B,away,4807801,12/01/25,2025-01-12,55,ENG FAC,567,Arsenal F.C.,239,Manchester United F.C.,1,1,0,1,0-0,0,-1.0,1,1,0,,,,,,,,,,,,,55,141D8B
+team_history,A,home,4807818,11/01/25,2025-01-11,55,ENG FAC,279,Liverpool F.C.,887,Accrington Stanley F.C.,4,0,0,0,2-0,0,-4.0,1,0,2,,,,,,,,,,,,,55,141D8B
+h2h,,,4702873,06/01/25,2025-01-06,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,2,2,0,0,0-0,0,-1.5,1,1,3,2.02,1.87,-1.5,1.76,2.14,-0.5,1.86,2.03,3.0,1.81,2.07,1.25,92,F90000
+team_history,B,away,4702873,06/01/25,2025-01-06,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,2,2,0,0,0-0,0,-1.5,1,1,0,,,,,,,,,,,,,92,F90000
+h2h,,,4702703,01/09/24,2024-09-01,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,0,3,0,0,0-2,0,0.5,1,2,0,1.93,1.96,0.5,1.85,2.04,0.25,1.94,1.95,3.25,1.8,2.08,1.25,92,F90000
+h2h,,,4749946,04/08/24,2024-08-04,166,INT CF,239,Manchester United F.C.,279,Liverpool F.C.,0,3,0,0,0-2,1,0.25,1,2,0,1.94,1.88,0.25,2.12,1.71,0.0,1.88,1.92,3.5,1.97,1.83,1.5,166,5691D8
+h2h,,,4495571,07/04/24,2024-04-07,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,2,0,0,0-1,0,1.0,1,1,3,1.98,1.91,1.0,1.81,2.08,0.5,2.01,1.88,3.75,1.9,1.98,1.5,92,F90000
+h2h,,,4656856,17/03/24,2024-03-17,55,ENG FAC,239,Manchester United F.C.,279,Liverpool F.C.,2,2,1,0,1-2,0,0.75,1,1,3,2.0,1.89,0.75,2.04,1.85,0.25,2.0,1.88,3.75,1.98,1.9,1.5,55,141D8B
+h2h,,,4495409,18/12/23,2023-12-18,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,0,0,1,0-0,0,-1.5,1,1,3,1.91,1.98,-1.5,2.08,1.81,-0.75,1.85,2.05,3.25,2.11,1.78,1.5,92,F90000
+h2h,,,4319824,06/03/23,2023-03-06,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,7,0,0,0,1-0,0,-0.25,1,0,0,2.09,1.81,-0.25,1.81,2.08,0.0,1.88,2.01,2.75,2.17,1.73,1.25,92,F90000
+h2h,,,4319584,23/08/22,2022-08-23,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,1,0,0,1-0,0,0.75,1,0,3,2.02,1.88,0.75,2.06,1.83,0.25,2.06,1.84,3.25,1.87,2.01,1.25,92,F90000
+h2h,,,4331288,12/07/22,2022-07-12,166,INT CF,239,Manchester United F.C.,279,Liverpool F.C.,4,0,0,0,3-0,1,-0.0,0,0,0,1.9,1.98,0.0,1.72,2.19,0.0,1.87,1.99,3.25,1.75,2.12,1.25,166,5691D8
+h2h,,,4163667,20/04/22,2022-04-20,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,4,0,0,0,2-0,0,-1.5,1,0,0,1.95,1.95,-1.5,1.78,2.12,-0.5,2.0,1.9,3.25,1.84,2.04,1.25,92,F90000
+h2h,,,4163461,24/10/21,2021-10-24,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,0,5,1,0,0-4,0,0.25,1,2,0,1.86,2.04,0.25,2.12,1.78,0.0,1.85,2.05,3.0,1.88,2.0,1.25,92,F90000
+h2h,,,4153850,14/05/21,2021-05-14,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,4,0,0,1-2,0,0.25,1,2,0,2.08,1.82,0.0,,,,2.07,1.83,3.0,,,,92,F90000
+h2h,,,4117066,25/01/21,2021-01-25,55,ENG FAC,239,Manchester United F.C.,279,Liverpool F.C.,3,2,0,0,1-1,0,0.25,1,0,3,2.04,1.84,0.0,,,,1.94,1.92,2.75,,,,55,141D8B
+h2h,,,4064103,18/01/21,2021-01-18,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,0,0,0,0-0,0,-0.5,1,1,3,1.94,1.96,-0.5,,,,1.93,1.97,3.0,,,,92,F90000
+h2h,,,3892344,20/01/20,2020-01-20,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,2,0,0,0,1-0,0,-1.25,1,0,0,2.07,1.83,-1.25,,,,2.2,1.65,3.0,,,,92,F90000
+h2h,,,3892206,20/10/19,2019-10-20,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,1,1,0,0,1-0,0,0.5,1,1,3,1.93,1.97,0.5,,,,2.03,1.87,2.5,,,,92,F90000
+h2h,,,3746685,24/02/19,2019-02-24,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,0,0,0,0,0-0,0,0.25,1,1,4,2.01,1.89,0.25,,,,1.99,1.91,2.75,,,,92,F90000
+h2h,,,3746581,16/12/18,2018-12-16,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,3,1,0,0,1-1,0,-1.0,1,0,0,1.88,2.02,-1.0,,,,1.95,1.95,2.75,,,,92,F90000
+h2h,,,3751017,29/07/18,2018-07-29,1254,GICC,239,Manchester United F.C.,279,Liverpool F.C.,1,4,0,0,1-1,1,0.75,1,2,0,1.95,1.85,0.75,,,,1.82,1.97,2.75,,,,1254,1E3C72
+h2h,,,1916422,10/03/18,2018-03-10,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,1,0,0,2-0,0,-0.0,1,0,0,2.19,1.76,0.0,,,,1.98,1.92,2.5,,,,92,F90000
+h2h,,,1916201,14/10/17,2017-10-14,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,0,0,0,0-0,0,-0.0,1,1,2,1.93,2.0,0.0,,,,1.95,1.95,2.25,,,,92,F90000
+h2h,,,1583759,15/01/17,2017-01-15,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,1,1,0,0,0-1,0,-0.5,1,1,3,2.1,1.82,-0.5,,,,1.8,2.1,2.25,,,,92,F90000
+h2h,,,1583629,18/10/16,2016-10-18,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,0,0,0,0-0,0,-0.25,1,1,4,1.9,2.02,-0.25,,,,1.98,1.95,2.5,,,,92,F90000
+h2h,,,1539638,18/03/16,2016-03-18,58,UEFA EL,239,Manchester United F.C.,279,Liverpool F.C.,1,1,0,0,1-1,0,-0.0,1,1,2,1.85,2.08,0.0,,,,1.85,2.0,2.25,,,,58,7E001C
+h2h,,,1539627,11/03/16,2016-03-11,58,UEFA EL,279,Liverpool F.C.,239,Manchester United F.C.,2,0,0,0,1-0,0,-0.5,1,0,0,1.8,2.15,-0.25,,,,2.0,1.85,2.25,,,,58,7E001C
+h2h,,,1381846,17/01/16,2016-01-17,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,1,0,0,0-0,0,-0.25,1,2,3,1.8,2.15,0.0,,,,2.15,1.78,2.25,,,,92,F90000
+h2h,,,1381670,13/09/15,2015-09-13,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,3,1,0,0,0-0,0,-0.5,1,0,0,1.925,1.975,-0.5,,,,1.9,2.0,2.25,,,,92,F90000
+h2h,,,1114945,22/03/15,2015-03-22,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,1,2,1,0,0-1,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,1114809,14/12/14,2014-12-14,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,3,0,0,0,2-0,0,-0.75,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,1156082,05/08/14,2014-08-05,1254,GICC,239,Manchester United F.C.,279,Liverpool F.C.,3,1,0,0,0-1,1,-0.25,1,0,0,,,,,,,,,,,,,1254,1E3C72
+h2h,,,960460,16/03/14,2014-03-16,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,0,3,1,0,0-1,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,1015675,26/09/13,2013-09-26,53,ENG LC,239,Manchester United F.C.,279,Liverpool F.C.,1,0,0,0,0-0,0,-0.5,1,0,0,,,,,,,,,,,,,53,fb4253
+h2h,,,960189,01/09/13,2013-09-01,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,1,0,0,0,1-0,0,-0.25,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,783228,13/01/13,2013-01-13,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,1,0,0,1-0,0,-0.5,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,782113,23/09/12,2012-09-23,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,1,2,1,0,0-0,0,-0.0,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,473886,11/02/12,2012-02-11,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,1,0,0,0-0,0,-0.5,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,720760,28/01/12,2012-01-28,55,ENG FAC,279,Liverpool F.C.,239,Manchester United F.C.,2,1,0,0,1-1,0,-0.25,1,0,0,,,,,,,,,,,,,55,141D8B
+h2h,,,473682,15/10/11,2011-10-15,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,1,1,0,0,0-0,0,-0.0,1,1,2,,,,,,,,,,,,,92,F90000
+h2h,,,363803,06/03/11,2011-03-06,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,3,1,0,0,2-0,0,0.25,1,0,3,,,,,,,,,,,,,92,F90000
+h2h,,,428410,09/01/11,2011-01-09,55,ENG FAC,239,Manchester United F.C.,279,Liverpool F.C.,1,0,0,1,1-0,0,-0.75,1,0,1,,,,,,,,,,,,,55,141D8B
+h2h,,,362808,19/09/10,2010-09-19,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,3,2,0,0,1-0,0,-0.75,1,0,1,,,,,,,,,,,,,92,F90000
+h2h,,,262525,21/03/10,2010-03-21,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,1,0,0,1-1,0,-0.75,1,0,1,,,,,,,,,,,,,92,F90000
+h2h,,,262314,25/10/09,2009-10-25,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,2,0,1,1,0-0,0,0.25,1,0,3,,,,,,,,,,,,,92,F90000
+h2h,,,183873,14/03/09,2009-03-14,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,1,4,1,0,1-2,0,-0.5,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,183423,13/09/08,2008-09-13,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,2,1,0,1,1-1,0,-0.0,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,119375,23/03/08,2008-03-23,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,3,0,0,1,1-0,0,-0.5,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,119045,16/12/07,2007-12-16,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,1,0,0,0-1,0,-0.25,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,72537,03/03/07,2007-03-03,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,1,0,1,0-0,0,-0.0,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,72197,22/10/06,2006-10-22,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,0,0,0,1-0,0,-0.5,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,60374,18/02/06,2006-02-18,55,ENG FAC,279,Liverpool F.C.,239,Manchester United F.C.,1,0,0,0,1-0,0,-0.0,1,0,0,,,,,,,,,,,,,55,141D8B
+h2h,,,31254,22/01/06,2006-01-22,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,1,0,0,0,0-0,0,-0.25,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,31086,18/09/05,2005-09-18,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,0,0,0,0-0,0,-0.0,1,1,2,,,,,,,,,,,,,92,F90000
+h2h,,,8622,15/01/05,2005-01-15,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,0,1,0,1,0-1,0,0.0,1,2,0,,,,,,,,,,,,,92,F90000
+h2h,,,8442,21/09/04,2004-09-21,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,2,1,0,0,1-0,0,-0.25,1,0,0,,,,,,,,,,,,,92,F90000
+h2h,,,6068,24/04/04,2004-04-24,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,0,1,0,0,0-0,0,-0.5,1,2,3,,,,,,,,,,,,,92,F90000
+h2h,,,10010390,09/11/03,2003-11-09,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,1,2,0,0,0-0,0,0.25,0,2,0,,,,,,,,,,,,,92,F90000
+h2h,,,10006230,05/04/03,2003-04-05,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,4,0,0,1,1-0,0,,0,0,-1,,,,,,,,,,,,,92,F90000
+h2h,,,10005585,02/03/03,2003-03-02,53,ENG LC,239,Manchester United F.C.,279,Liverpool F.C.,0,2,0,0,0-1,0,,0,2,-1,,,,,,,,,,,,,53,fb4253
+h2h,,,10004157,01/12/02,2002-12-01,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,1,2,0,0,0-0,0,,0,2,-1,,,,,,,,,,,,,92,F90000
+h2h,,,10000805,23/01/02,2002-01-23,92,ENG PR,239,Manchester United F.C.,279,Liverpool F.C.,0,1,0,0,,0,,0,2,-1,,,,,,,,,,,,,92,F90000
+h2h,,,10013697,04/11/01,2001-11-04,92,ENG PR,279,Liverpool F.C.,239,Manchester United F.C.,3,1,0,0,,0,,0,0,-1,,,,,,,,,,,,,92,F90000
